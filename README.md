@@ -29,7 +29,7 @@
 - **Язык программирования:** Go (Golang)
 - **Базы данных:** PostgreSQL, Redis
 - **Архитектура:** REST API, Clean Architecture
-- **Инфраструктура:** Docker, GitHub Actions, Railway, Nginx
+- **Инфраструктура:** Docker, GitHub Actions, Railway
 
 ## 📁 Структура репозитория
 - `/internal/user/` — Исходный код бизнес-логики управления пользователями.
